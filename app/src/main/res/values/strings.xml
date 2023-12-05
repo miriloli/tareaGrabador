@@ -1,0 +1,7 @@
+<resources>
+<string name="app_name">Grabador</string>
+<string name="Retroceder">&lt;&lt;</string>
+<string name="Reproducir">▶</string>
+<string name="Avanzar">&gt;&gt;</string>
+<string name="Grabar">●</string>
+</resources>
